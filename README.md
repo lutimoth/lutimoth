@@ -6,8 +6,7 @@
 - 📢 I have experience with MySQL and PostgreSQL for data querying, JOINS, UNION, and window functions
 - 🔭 I am looking to use my data science skills to solve business problems! (Looking for a job)
 - ⚡ Fun fact: I used to be a professor and a streamer! I greatly enjoy using my communication skills and content creation!
-- 🧠I am currently supporting The Knowledge House as a KKCF Instructor!
-
+- 🧠 I am currently supporting The Knowledge House as a KKCF Instructor!
 
 <!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/lutimoth?animation=False)](https://leetcode.com/lutimoth)
